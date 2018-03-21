@@ -1,2 +1,2 @@
-# invie-responsive
+# invie
 Las guitarras más locas
